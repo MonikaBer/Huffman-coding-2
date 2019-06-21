@@ -6,3 +6,5 @@ Usage:
 2) to decoding:   ./main 1 input_filename output_filename
 
 Text files and main have to be in the same directory.
+
+NASM is used as an assembler.
